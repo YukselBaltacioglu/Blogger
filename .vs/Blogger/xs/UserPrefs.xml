@@ -1,4 +1,8 @@
 ﻿<Properties StartupConfiguration="{36352DC1-0AAE-446E-97A4-44CB4AEA3EF5}|https">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Blogger FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.DataAccessLayer FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.BusinessLayer FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Blogger PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.CoreLayer FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.EntitLayer FirstBuild="True" />
 </Properties>
